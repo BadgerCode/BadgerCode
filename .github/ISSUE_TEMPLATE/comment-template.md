@@ -1,7 +1,7 @@
 ---
 name: Comment Template
 about: A basic comment
-title: Comment
+title: Hello!
 labels: comment
 assignees: ''
 
