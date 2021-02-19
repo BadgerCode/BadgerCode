@@ -2,6 +2,8 @@
 
 I work on services hosted in Azure using C#, websites and Garry's Mod addons using Lua.
 
+[Leave a comment](https://github.com/BadgerCode/BadgerCode/issues/new?assignees=&labels=comment&template=comment-template.md&title=Hello%21)
+
 
 <!--
 **BadgerCode/BadgerCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
